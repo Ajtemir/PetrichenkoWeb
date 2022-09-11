@@ -1,0 +1,150 @@
+
+002 -
+https://wireframe.cc/
+
+002 -2
+https://ninjamock.com/
+
+003 VSCode
+https://code.visualstudio.com/
+
+003 Node.js
+https://nodejs.org/en/
+
+003 -VS-Code
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+003 -
+https://docs.google.com/document/d/1KXe7RcSUE5iwYqqHNNlLa6ZR96JEvAxTianqasYNWiI/edit?usp=sharing
+
+004 Photoshop-Windows
+https://drive.google.com/open?id=1ZfXB25wEiymtDCzKc1gpzirUu1Pq8MrM
+
+004 Photoshop-Mac
+https://www.appstorrent.ru/91-photoshop.html
+
+004 -
+https://itblog21.ru/neformat/2025-jpg-gif-png-i-svg-kakoj-format-dlya-interneta-luchshe
+
+005 Avocode
+https://avocode.com/
+
+005 Zeplin
+https://zeplin.io/
+
+005 Psdetch
+https://studio.psdetch.com/
+
+005 Figma
+https://www.figma.com
+
+005 -sketch-30-Avocode
+https://avocode.com/convert-psd-to-sketch
+
+005 -
+https://drive.google.com/open?id=1Pg35LJ2tzEtTD6fP07SZsUnfRwEEjaKj
+
+006 Vectorizer
+https://www.vectorizer.io/
+
+006 Convertio
+https://convertio.co/ru/
+
+006 Online-convert
+https://www.online-convert.com/
+
+006 -psd
+https://drive.google.com/open?id=1RJb3nXMkWndWo_0FLSXQ-p-J30u3s3xN
+
+007 -1
+https://www.ozon.ru/context/detail/id/21469102/
+
+007 -2
+https://www.ozon.ru/context/detail/id/138552248/
+
+008 -
+http://users.uoa.gr/~nektar/arts/tributes/antoine_de_saint-exupery_le_petit_prince/the_little_prince.htm
+
+008 -HTML
+https://webref.ru/html
+
+009 -HTML5
+http://htmlbook.ru/html5
+
+010 CSS-
+https://www.rapidtables.com/web/css/css-color.html
+
+010 -style
+https://webref.ru/html/attr/style
+
+010 -CSS
+https://webref.ru/css
+
+010 -
+https://colorscheme.ru/color-converter.html
+
+011 -
+https://mdn.mozillademos.org/files/13647/box-model-standard-small.png
+
+013 -
+https://htmlreference.io/
+
+013 Display
+https://cssreference.io/property/display/
+
+014 Position
+https://cssreference.io/property/position/
+
+015 vertical-align
+https://cssreference.io/property/vertical-align/
+
+016 Caniuse
+https://caniuse.com
+
+016 -
+http://htmlbook.ru/content/edinitsy-izmereniya
+
+017 -background
+https://cssreference.io/backgrounds/
+
+017 -
+https://drive.google.com/open?id=1TRAZM-nYINCXq0jM2gA_OpNyt-p2WPkz
+
+018 Caniuse
+https://caniuse.com/
+
+018 -flexbox
+https://html5.by/blog/flexbox/
+
+018 Flexbox-
+https://habr.com/ru/post/259783/
+
+019 background-position
+https://cssreference.io/backgrounds/#background-position
+
+019 -
+https://www.udemy.com
+
+020 Normalize.css
+https://necolas.github.io/normalize.css/
+
+020 -reset.css
+https://habr.com/ru/post/45296/
+
+020 -normalize.css
+https://htmlacademy.ru/blog/64-about-normalize-css
+
+020 -cdn-
+https://cdnjs.com/libraries/normalize
+
+020 -
+https://github.com/yankovalenko94/Webdev2019
+
+021 font-family
+https://developer.mozilla.org/ru/docs/Web/CSS/font-family
+
+021 -google
+https://fonts.google.com/
+
+021 -
+https://webfonts.pro/

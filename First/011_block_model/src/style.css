@@ -1,0 +1,20 @@
+.box{
+    width:300px;
+    height:300px;
+    background-color:red;
+    padding: 20px;
+    border : 3px solid black;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.example{
+    display: inline-block;
+    position: relative;
+}
+.green {
+    background-color:green;
+    position:relative;
+    right: 100px;
+    left: 100px;
+}
